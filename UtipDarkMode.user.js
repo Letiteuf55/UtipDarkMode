@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BETA Dark Theme for Utip
+// @name         Dark Theme for Utip
 // @namespace    https://utip.io
 // @version      1.1
 // @description  Just an other black theme
