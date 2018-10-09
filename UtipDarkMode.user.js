@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dark Theme for Utip
-// @namespace    https://utip.io
+// @namespace    https://*.utip.io/*
 // @version      1.0
 // @description  Just an other black theme
 // @author       CrazypandaFR, Shelp
@@ -41,6 +41,9 @@ GM_addStyle ('.level-indicator { color: #B7B7B7 !important; }');
 GM_addStyle ('.menu-counter-item { color: #B7B7B7 !important; }');
 GM_addStyle ('.filter-search-bar-creators { background-color: #4d4d4d !important; }');
 GM_addStyle ('.filter-search-bar-creators input { color: #ffffff !important; }');
+GM_addStyle ('.dropdown-item { color: #ffffff !important; }');
+GM_addStyle ('.dropdown-item { background-color: #595959 !important; }');
+GM_addStyle ('.menu-counter-item { color: #808080 !important; }');
 
 // Utip
 
