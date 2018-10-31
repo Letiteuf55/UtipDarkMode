@@ -6,6 +6,9 @@
 // @author       CrazypandaFR, Shelp
 // @match        https://utip.io/*
 // @grant        GM_addStyle
+// @downloadURL     https://github.com/Letiteuf55/UtipDarkMode/raw/master/UtipDarkMode.user.js
+// @updateURL       https://github.com/Letiteuf55/UtipDarkMode/raw/master/UtipDarkMode.user.js
+// @supportURL      https://github.com/Letiteuf55/UtipDarkMode/issues
 
 // ==/UserScript==
 
