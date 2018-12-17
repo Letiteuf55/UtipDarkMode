@@ -30,7 +30,7 @@ GM_addStyle ('.recommended-creator-name { color: #B7B7B7 !important; }');
 GM_addStyle ('.post { background-color: #494949 !important; }');
 GM_addStyle ('.author-name { color: #B7B7B7 !important; }');
 GM_addStyle ('.date-text { color: #B7B7B7 !important; }');
-GM_addStyle ('.post-utip-text { color: #bfbfbf !important; }');
+GM_addStyle ('.post-utip-text { color: #150000 !important; }');
 GM_addStyle ('.supportBtn { background-color: #FFFFFF !important; }');
 GM_addStyle ('.supportBtn { border-radius: 25px !important; }');
 GM_addStyle ('.support-btn-text { color: #bfbfbf !important; }');
