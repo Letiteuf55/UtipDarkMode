@@ -1,8 +1,6 @@
 # UtipDarkMode
-Dark Mode script for Tempermonkey
+Dark Mode script for Tampermonkey
 
-Prérequis : avoir le plugin tempermonkey installé sur son navigateur web
+Prérequis : avoir le plugin Tampermonkey installé sur son navigateur web
 
-HowTo : Ouvrir le fichier UtipDarkMode.user.js et cliquer sur "RAW" et l'installer dans Tempermonkey
-
-Bisous
+HowTo : Ouvrir le fichier UtipDarkMode.user.js et cliquer sur "RAW" et l'installer dans Tampermonkey
